@@ -46,6 +46,11 @@ __Easy watching__
 
 __Git tools and sites__
 
++ [git-cl](https://github.com/BHFock/git-cl) is a Git subcommand
+  that brings Subversion-style changelists to Git. It lets you group
+  working-tree files by intent, and then stage, commit, stash,
+  or promote them to a branch. It is BSD-3 licensed and available
+  on PyPI as `git-changelists`.
 
 ## Releases
 
